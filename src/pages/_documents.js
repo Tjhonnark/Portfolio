@@ -7,7 +7,7 @@ class MyDocument extends Document {
     }
 
     render() {
-        const GTM_ID = 'GTM-W7K4HGQ';
+        const GTM_ID = 'GTM-N964HZN';
         return (
             <Html>
                 <Head>
